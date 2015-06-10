@@ -2,3 +2,5 @@
 dist
 dist-stack
 .stack-work/
+*.o
+*.hi
